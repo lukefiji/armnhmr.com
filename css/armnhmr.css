@@ -532,4 +532,10 @@ picture {
   margin: 0;
   max-width: 100%; }
 
+.hero {
+  background-image: url("../img/armnhmr1.jpg");
+  background-size: cover;
+  background-position: bottom;
+  height: 100vh; }
+
 /*# sourceMappingURL=armnhmr.css.map */
